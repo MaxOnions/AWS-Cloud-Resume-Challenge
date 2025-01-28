@@ -3,7 +3,7 @@
 Repository of the front-end code for the Cloud Resume Challenge, AWS version
 
 Includes:
-- HTML Index page
+- HTML pages
 - CSS Style Sheets
 - JavaScript API calls
 
