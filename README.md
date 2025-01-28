@@ -1,4 +1,4 @@
-# AWS_Resume_Challenge
+# AWS-Cloud-Resume-Challenge
 
 Repository for the AWS version of the Cloud Resume Challenge
 
